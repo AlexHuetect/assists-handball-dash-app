@@ -67,7 +67,7 @@ line_fig = go.Figure()
 line_fig.update_layout(
         font_color='black',
         plot_bgcolor='white',
-        title='When in the Shotclock does %s find opportunities for assists?' % '(Insert Player Name)',
+        title='When in te Shotclock does %s find opportunities for assists?' % '(Insert Player Name)',
 )
 
 line_plot = dcc.Graph(
